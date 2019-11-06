@@ -1,0 +1,33 @@
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\bin\Debug\Scrum Yapısı.exe.config
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\bin\Debug\Scrum Yapısı.exe
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\bin\Debug\Scrum Yapısı.pdb
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum Yapısı.csprojResolveAssemblyReference.cache
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum_Yapısı.FrmGiris.resources
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum_Yapısı.Properties.Resources.resources
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum_Yapısı.FrmScrum.resources
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum Yapısı.csproj.GenerateResource.cache
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum Yapısı.exe
+C:\Users\İrem\Source\Repos\Scrum Yapısı\Scrum Yapısı\obj\Debug\Scrum Yapısı.pdb
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\bin\Debug\Scrum Yapısı.exe.config
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\bin\Debug\Scrum Yapısı.exe
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\bin\Debug\Scrum Yapısı.pdb
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.csprojResolveAssemblyReference.cache
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum_Yapısı.FrmGiris.resources
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum_Yapısı.Properties.Resources.resources
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum_Yapısı.FrmScrum.resources
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.csproj.GenerateResource.cache
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.exe
+C:\Users\İrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.pdb
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\bin\Debug\Scrum Yapısı.exe.config
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\bin\Debug\Scrum Yapısı.exe
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\bin\Debug\Scrum Yapısı.pdb
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum_Yapısı.FrmGiris.resources
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum_Yapısı.Properties.Resources.resources
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum_Yapısı.FrmScrum.resources
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.csproj.GenerateResource.cache
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.exe
+C:\Users\ayrem\Source\Repos\Scrum Yapısı - Kopya\Scrum Yapısı\obj\Debug\Scrum Yapısı.pdb
